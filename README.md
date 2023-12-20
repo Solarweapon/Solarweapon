@@ -1,4 +1,4 @@
-### Hi there 👋
+![图片](https://github.com/Solarweapon/Solarweapon/assets/58280674/94108a89-2807-458a-bcc0-051ed96d1c1d)### Hi there 👋
 
 <!--
 **Solarweapon/Solarweapon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Solarweapon)](https://github.com/anuraghazra/github-readme-stats)
