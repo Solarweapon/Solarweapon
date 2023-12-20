@@ -1,4 +1,4 @@
-![图片](https://github.com/Solarweapon/Solarweapon/assets/58280674/94108a89-2807-458a-bcc0-051ed96d1c1d)### Hi there 👋
+### Hi there 👋
 
 <!--
 **Solarweapon/Solarweapon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
